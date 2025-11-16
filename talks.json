@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Jane Doe"],
+    "category": ["AI", "Machine Learning"],
+    "duration": "1 hour",
+    "description": "A deep dive into the future of AI and its potential impact on society."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Peter Jones"],
+    "category": ["Web Development", "Scalability"],
+    "duration": "1 hour",
+    "description": "Learn how to build web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["Mary Johnson"],
+    "category": ["Cybersecurity", "Security"],
+    "duration": "1 hour",
+    "description": "An overview of the latest threats in cybersecurity and how to protect against them."
+  },
+  {
+    "title": "The Rise of Quantum Computing",
+    "speakers": ["David Williams"],
+    "category": ["Quantum Computing", "Future Tech"],
+    "duration": "1 hour",
+    "description": "Exploring the principles of quantum computing and its potential applications."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["Emily Brown", "Michael Davis"],
+    "category": ["Web Development", "Frontend"],
+    "duration": "1 hour",
+    "description": "A detailed comparison of the most popular frontend frameworks: React, Vue, and Angular."
+  },
+  {
+    "title": "DevOps and Continuous Delivery",
+    "speakers": ["Sarah Miller"],
+    "category": ["DevOps", "CI/CD"],
+    "duration": "1 hour",
+    "description": "Best practices for implementing DevOps and continuous delivery in your organization."
+  }
+]
